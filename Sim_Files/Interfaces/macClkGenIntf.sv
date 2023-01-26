@@ -1,0 +1,1 @@
+../../../FENet_Verilog/Interfaces/macClkGenIntf.sv
